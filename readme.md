@@ -1,19 +1,24 @@
 <div align="center">
 
-# Tomás Alexandre Gregório João
+<img src="https://github-readme-stats.vercel.app/api?username=TomasJoao23131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165">
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasJoao23131&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+---
+
+<div align="center">
 
 **Desenvolvedor júnior · React · C#/.NET · SQL Server**
 
 <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20trabalho%20remoto%20part-time-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Disponível para trabalho remoto part-time" height="28"> <img src="https://img.shields.io/badge/Marinhais%2C%20Portugal-555555?style=for-the-badge&logo=map&logoColor=white" alt="Marinhais, Portugal" height="28">
 </div>
 
----
-
 ### 👋 Sobre mim
 
-Estudante do 2.º ano do **CTESP em Tecnologias e Programação de Sistemas de Informação** (ISLA de Santarém).
+Estudante do 2.º ano do **CTESP em Tecnologias e Programação de Sistemas de Informação** (ISLA de Santarém), a iniciar carreira em desenvolvimento de software.
 
-Concluí o **Técnico de Informática de Gestão** com **16/20** — Ensino Secundário Profissional, nível 4 do QNQ — após **600 horas de estágio profissional** na Bi4all, onde desenvolvi uma aplicação web interna em **React**, **C# / .NET 8** e **SQL Server**.
+Concluí o **Técnico de Informática de Gestão** com **16/20** — Ensino Secundário Profissional, nível 4 do QNQ. Estágio curricular na **Bi4all**, onde desenvolvi uma aplicação web interna em **React**, **C# / .NET 8** e **SQL Server**.
 
 ### 🛠️ Tecnologias
 
@@ -36,10 +41,9 @@ Concluí o **Técnico de Informática de Gestão** com **16/20** — Ensino Secu
 
 **[archtui](https://github.com/TomasJoao23131/archtui)** — Instalador automatizado do Arch Linux em Python: particionamento de disco, configuração de utilizador e geração do script de instalação.
 
-### 📫 Contacto
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomás-alexandre-gregório-joão-9171ba27b/)
+&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomas.joao.28@gmail.com)
 </div>
