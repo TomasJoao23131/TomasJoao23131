@@ -1,14 +1,5 @@
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TomasJoao23131&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165">
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasJoao23131&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
----
-
-<div align="center">
-
 **Desenvolvedor júnior · React · C#/.NET · SQL Server**
 
 <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20trabalho%20remoto%20part-time-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Disponível para trabalho remoto part-time" height="28"> <img src="https://img.shields.io/badge/Marinhais%2C%20Portugal-555555?style=for-the-badge&logo=map&logoColor=white" alt="Marinhais, Portugal" height="28">
