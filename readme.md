@@ -37,6 +37,20 @@
 ###
 
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/TomasJoao23131/TomasJoao23131/stats-output/stats.svg" height="150" alt="stats graph"  />
+</div>
+
+
+###
+
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/TomasJoao23131/TomasJoao23131/snake-output/snake.svg" alt="Snake animation" />
+
+
+###
+
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=TomasJoao23131.TomasJoao23131&"  />
 </div>
