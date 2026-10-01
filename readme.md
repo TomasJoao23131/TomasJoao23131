@@ -34,6 +34,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="46" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="46" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="46" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/microsoft-sql-server.png" alt="SQL Server" height="42" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -44,8 +45,7 @@
 <a href="https://www.kernel.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="46" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/git.png" alt="Git" height="42" /></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/microsoft-azure.png" alt="Azure DevOps" height="42" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/figma.png" alt="Figma" height="42" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/microsoft-sql-server.png" alt="SQL Server" height="42" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 8px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30"></a>
 </div>
 
 </td></tr></table>
