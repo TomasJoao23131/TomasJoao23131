@@ -7,15 +7,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomasJoao23131&theme=github" alt="Repos per language" width="330">
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TomasJoao23131&theme=github" alt="Productive time" width="330">
-</div>
-
----
-
 ### 👋 Sobre mim
 
 Estudante do 2.º ano do **CTESP em Tecnologias e Programação de Sistemas de Informação** (ISLA de Santarém), a iniciar carreira em desenvolvimento de software.
