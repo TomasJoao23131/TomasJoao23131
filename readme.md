@@ -38,14 +38,14 @@
 
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/TomasJoao23131/TomasJoao23131/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/TomasJoao23131/TomasJoao23131/main/stats-output/stats.svg?v=1" height="150" alt="stats graph"  />
 </div>
 
 
 ###
 
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/TomasJoao23131/TomasJoao23131/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/TomasJoao23131/TomasJoao23131/main/snake-output/snake.svg?v=1" alt="Snake animation" />
 
 
 ###
