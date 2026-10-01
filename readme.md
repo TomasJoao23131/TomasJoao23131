@@ -1,9 +1,23 @@
 <div align="center">
 
-**Desenvolvedor júnior · React · C#/.NET · SQL Server**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=61DAFB&center=true&vCenter=true&width=620&lines=A+iniciar+carreira+em+desenvolvimento+de+software;React+%C2%B7+C%23%2F.NET+8+%C2%B7+SQL+Server;Dispon%C3%ADvel+para+trabalho+remoto+part-time;Marinhais%2C+Portugal" alt="typing" height="90">
+</div>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20trabalho%20remoto%20part-time-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Disponível para trabalho remoto part-time" height="28"> <img src="https://img.shields.io/badge/Marinhais%2C%20Portugal-555555?style=for-the-badge&logo=map&logoColor=white" alt="Marinhais, Portugal" height="28">
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomasJoao23131&theme=github" alt="Profile details" height="150">
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomasJoao23131&theme=github" alt="Repos per language" height="150">
+</div>
+
+---
 
 ### 👋 Sobre mim
 
