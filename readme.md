@@ -12,17 +12,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TomasJoao23131&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150">
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasJoao23131&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150">
-</div>
-
----
-
 ### 🛠️ My Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -44,7 +33,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C Sharp" height="46" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="46" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="46" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 8px" src="https://api.iconify.design/logos:microsoft-sql-server.svg" alt="SQL Server" height="46" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="46" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -53,9 +42,10 @@
 
 <div align="center">
 <a href="https://www.kernel.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="46" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 8px" src="https://api.iconify.design/logos:git-icon.svg" alt="Git" height="46" /></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 8px" src="https://api.iconify.design/logos:microsoft-azure.svg" alt="Azure DevOps" height="46" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 8px" src="https://api.iconify.design/logos:figma.svg" alt="Figma" height="46" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/git.png" alt="Git" height="42" /></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/microsoft-azure.png" alt="Azure DevOps" height="42" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/figma.png" alt="Figma" height="42" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 8px" src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/microsoft-sql-server.png" alt="SQL Server" height="42" /></a>
 </div>
 
 </td></tr></table>
