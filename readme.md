@@ -1,12 +1,30 @@
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+# Tomás Alexandre Gregório João
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TomasJoao23131&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TomasJoao23131&theme=codeSTACKr&hide_border=false)<br/>
+Estudante de **Tecnologias e Programação de Sistemas de Informação** (CTESP, ISLA de Santarém), a iniciar carreira em desenvolvimento de software.
 
+Tenho **16/20** no Técnico de Informática de Gestão (Ensino Secundário Profissional, nível 4 do QNQ) e **600 horas de estágio profissional** na Bi4all, onde trabalhei em **React** no frontend, **C# / .NET 8** no backend e **SQL Server** como base de dados.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TomasJoao23131&icon=1&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tecnologias
+
+**Frontend** · HTML5 · CSS3 · JavaScript · React
+
+**Backend e bases de dados** · C# · .NET 8 · SQL Server
+
+**Ferramentas** · Azure DevOps · Figma · Git
+
+---
+
+## 📂 Projetos
+
+**[archtui](https://github.com/TomasJoao23131/archtui)** — Instalador automatizado do Arch Linux em Python, com particionamento de disco, configuração de utilizador e geração do script de instalação.
+
+---
+
+## 📫 Contacto
+
+- **Email:** tomas.joao.28@gmail.com
+- - **LinkedIn:** [linkedin.com/in/tomás-alexandre-gregório-joão-9171ba27b](https://www.linkedin.com/in/tomás-alexandre-gregório-joão-9171ba27b/)
+  - - **Localização:** Marinhais, Portugal · disponível para trabalho remoto part-time
+    - 
